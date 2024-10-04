@@ -60,10 +60,10 @@ plugins:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Faraz Bukhari
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "PhD (AI/ML) @ IIT-D."
+  location         : "New Delhi | India"
   email            :
   links:
     - label: "Email"
