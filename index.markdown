@@ -21,7 +21,7 @@ It's your opinion, I don't agree !<br>
 
 
 <p>
-Full gHazal <a>here</a>..
+Read full <a>here</a>..
 </p>
 
 <hr>
