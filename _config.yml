@@ -282,3 +282,7 @@ header:
       url: /projects/
     - title: "Contact"
       url: /contact/
+
+#to stop showing list of posts on home page
+show_excerpts_on_index: false 
+
