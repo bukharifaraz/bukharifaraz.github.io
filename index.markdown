@@ -6,10 +6,14 @@ layout: home
 title: "About this blog"
 author_profile: true
 ---
-
-
+<p>
 اک شاعر ہے اچھا بخاری فراز<br>
-ہے خیال آپکا ہَم نہیں مانتے<br>
+  ہے خیال آپکا ہَم نہیں مانتے<br>
+</p>
+
+
+
+
 <p>
 A remarkable poet, "Bukhari Faraz" is ; <br>
 It's your opinion, I don't agree !<br>
