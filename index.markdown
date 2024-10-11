@@ -6,3 +6,6 @@ layout: home
 title: "About this blog"
 author_profile: true
 ---
+
+
+I am Computer Science & Engineering graduate from NIT-Bhopal, currently pursuing PhD in AI/ML at IIT-D. 
