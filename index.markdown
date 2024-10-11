@@ -8,4 +8,11 @@ author_profile: true
 ---
 
 
-I am Computer Science & Engineering graduate from NIT-Bhopal, currently pursuing PhD in AI/ML at IIT-D. 
+اک شاعر ہے اچھا بخاری فراز
+ہے خیال آپکا ہَم نہیں مانتے
+Bukhari, Faraz is a remarkable poet ;
+It's just your opinion, I don't agree !
+
+<p>
+Full gHazal here..
+</p>
