@@ -61,7 +61,7 @@ plugins:
 # Site Author
 author:
   name             : "Faraz Bukhari"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/photo.jpeg"
   bio              : "PhD (AI/ML) @ IIT-D."
   location         : "New Delhi | India"
   email            :
