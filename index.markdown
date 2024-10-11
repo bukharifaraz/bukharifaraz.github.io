@@ -8,11 +8,13 @@ author_profile: true
 ---
 
 
-اک شاعر ہے اچھا بخاری فراز
-ہے خیال آپکا ہَم نہیں مانتے
-Bukhari, Faraz is a remarkable poet ;
-It's just your opinion, I don't agree !
+<br>اک شاعر ہے اچھا بخاری فراز
+ہے خیال آپکا ہَم نہیں مانتے<br>
+Bukhari, Faraz is a remarkable poet ;<br>
+It's just your opinion, I don't agree !<br>
 
 <p>
 Full gHazal here..
 </p>
+
+<hr>
