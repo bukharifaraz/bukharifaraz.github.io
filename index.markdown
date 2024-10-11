@@ -8,13 +8,16 @@ author_profile: true
 ---
 
 
-<br>اک شاعر ہے اچھا بخاری فراز
+اک شاعر ہے اچھا بخاری فراز<br>
 ہے خیال آپکا ہَم نہیں مانتے<br>
-Bukhari, Faraz is a remarkable poet ;<br>
-It's just your opinion, I don't agree !<br>
+<p>
+A remarkable poet, "Bukhari Faraz" is ; <br>
+It's your opinion, I don't agree !<br>
+</p>
+
 
 <p>
-Full gHazal here..
+Full gHazal <a>here</a>..
 </p>
 
 <hr>
