@@ -2,7 +2,7 @@
 layout: single
 title:  "mujhko-laga-gHalat"
 classes: wide
-date:   2024-07-26 21:50:01 +0530
+date:   2023-07-26 21:50:01 +0530
 categories: ghazal urdu
 tags: ghazal
 ---
