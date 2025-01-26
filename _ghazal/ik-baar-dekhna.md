@@ -2,7 +2,7 @@
 layout: single
 title:  "ik baar dekhna"
 classes: wide
-date:   2024-10-03 20:16:01 +0530
+date:   2025-10-05 20:16:01 +0530
 categories: jekyll update
 tags: ghazal
 ---
