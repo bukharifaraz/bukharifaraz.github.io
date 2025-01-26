@@ -2,11 +2,11 @@
 main:
   - title: "Ghazal"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
+  - title: "AI/ML"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
+  # - title: "Humanities"
   #   url: /year-archive/
-  # - title: "Sample Collections"
+  # - title: "Book Log"
   #   url: /collection-archive/
-  # - title: "Sitemap"
+  # - title: "Watch Log"
   #   url: /sitemap/
