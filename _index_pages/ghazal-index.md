@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "My Ghazal(s)"
 ---
 
 <h1>Ghazal Collection</h1>
