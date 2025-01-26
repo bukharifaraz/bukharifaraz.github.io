@@ -2,7 +2,6 @@
 layout: single
 title: "My Ghazal(s)"
 ---
-<h1>Posts Tagged with "Ghazal"</h1>
 
 <ul>
   {% for post in site.posts %}
@@ -12,6 +11,17 @@ title: "My Ghazal(s)"
         <span> - {{ post.date | date: "%B %d, %Y" }}</span>
       </li>
     {% endif %}
+  {% endfor %}
+</ul>
+
+<h1>Ghazal Collection</h1>
+
+<ul>
+  {% for item in site.ghazal %}
+    <li>
+      <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+      <span> - {{ item.date | date: "%B %d, %Y" }}</span>
+    </li>
   {% endfor %}
 </ul>
 
