@@ -4,9 +4,9 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "AI/ML"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Humanities"
+  - title: "Humanities"
   #   url: /year-archive/
-  # - title: "Book Log"
+  - title: "Book Log"
   #   url: /collection-archive/
-  # - title: "Watch Log"
+  - title: "Watch Log"
   #   url: /sitemap/
