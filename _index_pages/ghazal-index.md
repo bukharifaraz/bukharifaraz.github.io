@@ -6,7 +6,7 @@ title: "My Ghazal(s)"
 
 <ul>
   {% for post in site.posts %}
-    {% if posts.tags contains "ghazal" %}
+    {% if post.tags contains "ghazal" %}
       <li>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         <span> - {{ post.date | date: "%B %d, %Y" }}</span>
