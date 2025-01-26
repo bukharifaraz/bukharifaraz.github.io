@@ -1,8 +1,7 @@
 ---
 layout: single
+title: Ghazal Collection
 ---
-
-<h1>Ghazal Collection</h1>
 
 <ul>
   {% for item in site.ghazal %}
