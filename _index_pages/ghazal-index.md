@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "My Ghazal(s)"
-permalink: /ghazal/
 ---
 <h1>Posts Tagged with "Ghazal"</h1>
 
