@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://bukharifaraz.github.io/</loc>
+  <lastmod>2024-10-11T09:35:06+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://bukharifaraz.github.io/%E0%A4%B9%E0%A4%AE-%E0%A4%A8%E0%A4%B9%E0%A5%80%E0%A4%82-%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%A4%E0%A5%87/</loc>
+  <lastmod>2024-10-11T09:35:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bukharifaraz.github.io/jekyll/update/welcome-to-jekyll/</loc>
+  <lastmod>2024-10-11T09:35:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bukharifaraz.github.io/jekyll/update/Ghazal/</loc>
+  <lastmod>2024-10-11T09:35:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bukharifaraz.github.io/jekyll/update/Jidhar-jaane-ke-baad/</loc>
+  <lastmod>2024-10-11T09:35:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
