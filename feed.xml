@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-01-26T12:50:26+00:00</updated><id>/feed.xml</id><title type="html">Faraz Bukhari</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Faraz Bukhari</name></author><entry><title type="html">Sample</title><link href="/sample/" rel="alternate" type="text/html" title="Sample" /><published>2025-01-01T00:00:00+00:00</published><updated>2025-01-01T00:00:00+00:00</updated><id>/sample</id><content type="html" xml:base="/sample/"><![CDATA[<p>adfadf</p>]]></content><author><name>Faraz Bukhari</name></author><summary type="html"><![CDATA[adfadf]]></summary></entry><entry><title type="html">हम नहीं मानते</title><link href="/%E0%A4%B9%E0%A4%AE-%E0%A4%A8%E0%A4%B9%E0%A5%80%E0%A4%82-%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%A4%E0%A5%87/" rel="alternate" type="text/html" title="हम नहीं मानते" /><published>2024-10-11T00:00:00+00:00</published><updated>2024-10-11T00:00:00+00:00</updated><id>/%E0%A4%B9%E0%A4%AE%20%E0%A4%A8%E0%A4%B9%E0%A5%80%E0%A4%82%20%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%A4%E0%A5%87</id><content type="html" xml:base="/%E0%A4%B9%E0%A4%AE-%E0%A4%A8%E0%A4%B9%E0%A5%80%E0%A4%82-%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%A4%E0%A5%87/"><![CDATA[<p>Ek had tak bura ham nahiN maante , 
+Phir koi ilteja ham nahiN maante.</p>
+
+<p>Ek shayar hai accha bukhari faraz 
+Hai kHayal aapka, ham nahiN maante !</p>]]></content><author><name>Faraz Bukhari</name></author><summary type="html"><![CDATA[Ek had tak bura ham nahiN maante , Phir koi ilteja ham nahiN maante.]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-10-04T14:46:01+00:00</published><updated>2024-10-04T14:46:01+00:00</updated><id>/jekyll/update/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/welcome-to-jekyll/"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name>Faraz Bukhari</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">जिधर जाने के बाद</title><link href="/jekyll/update/Jidhar-jaane-ke-baad/" rel="alternate" type="text/html" title="जिधर जाने के बाद" /><published>2024-10-03T14:46:01+00:00</published><updated>2024-10-03T14:46:01+00:00</updated><id>/jekyll/update/Jidhar%20jaane%20ke%20baad</id><content type="html" xml:base="/jekyll/update/Jidhar-jaane-ke-baad/"><![CDATA[<p><br />
+जाओ हमको याद रखना तुम मगर जाने के बाद !!<br />
+यूँ न हो सब भूल जाओ बन-संवर जाने के बाद !!<br />
+.<br />
+हम अभी तो क्या करें तुमसे बहस, ख़ुद देखना ;<br />
+इन सितारों की सियाही तुम शरर जाने के बाद !!<br />
+.<br />
+ताक़ पर जो रख दिया था इक दिया उम्मीद का ;<br />
+बस वही जलता मिला तूफ़ां गुज़र जाने के बाद !!<br />
+.<br />
+उज़्र वह भी दे सका वादा-ख़िलाफ़ी का नहीं ; <br />
+और मैं भी चुप रहा उसके मुकर जाने के बाद !!<br />
+.<br />
+गर नहीं है नाम में कुछ आप ही फिर सुर्ख़-रु ;<br />
+क्यों हुए ये ग़लतियाँ दो बार कर जाने के बाद!!<br />
+.<br />
+क़ैद में वह डोर की ख़ुद-सर गले का हार थे ;<br />
+हैं पड़े क़दमों के नीचे गुल  बिखर जाने के बाद !!<br />
+.<br />
+कहकशाएँ क्या पता फिर ज़िन्दग़ी की खोज में  ;<br />
+दर-बदर कब तक फिरें हम सब के मर जाने के बाद !!<br />
+.<br />
+काश ले कर कोई हमको उस तरफ़ जाए फ़राज़ ;<br />
+फिर नयी मंज़िल न ढूंढें हम जिधर जाने के बाद !!  <br />
+.<br /></p>
+
+<h3>
+Translation:
+</h3>
+<p>Go, but remember me after I’m gone! <br />
+I hope you don’t forget everything once you move on and adorn yourself again!</p>
+<h3>
+Explanation:
+</h3>
+<p>The poet implores the listener (perhaps a lover or a close friend) to remember them after parting ways. There’s a concern that once life becomes beautiful again, the memory of their shared moments might fade.</p>
+
+<h3>
+Translation:
+</h3>
+<p>I won’t argue with you right now—just wait and see; <br />
+You’ll witness the darkness of these stars after their sparks have gone!</p>
+<h3>
+Explanation:
+</h3>
+<p>The speaker chooses not to debate presently, but subtly suggests that, in time, the other person will see the reality (symbolized by the “darkness of stars” after the brilliance of sparks fades). The transient nature of the spark (momentary brightness) is contrasted with the lasting darkness (reality).</p>
+
+<h3>
+Translation:
+</h3>
+<p>The lamp of hope that was placed on the shelf;<br />
+It was the only thing still burning after the storm had passed!</p>
+<h3>
+Explanation:
+</h3>
+<p>This couplet metaphorically speaks of a “lamp of hope” that endures even after life’s storms. The storm represents hardship, but the enduring hope (despite being put aside) keeps burning.</p>
+
+<h3>
+Translation:
+</h3>
+<p>He couldn’t even offer an excuse for breaking his promise; <br />
+And I, too, stayed silent after he denied it!</p>
+<h3>
+Explanation:
+</h3>
+<p>The poet expresses a sense of resignation. The other person did not even bother to justify breaking their promise, and the poet, instead of confronting them, remained silent—suggesting either hurt or a stoic acceptance.</p>
+
+<h3>
+Translation:
+</h3>
+<p>If name doesn’t matter, why was it the case that only you go the glory <br />
+(even though) you had erred twice !!</p>
+<h3>
+Explanation:
+</h3>
+<p>If personal reputation, fame, or recognition isn’t important, then why do they keep receiving praise or “glory”.  The second line emphasizes the contradiction: the person being addressed has made the same mistake twice (possibly referencing betrayal, broken promises, or faults), yet they are the ones getting all the recognition despite their errors. The speaker is calling out the unfairness and double standards where the other’s mistakes are overlooked, while still receiving admiration. <br /></p>
+
+<p>This couplet exposes hypocrisy, where someone who claims not to care about fame still benefits from it, despite repeatedly making mistakes. There’s also a hint of frustration and perhaps a sense of injustice on the speaker’s part.</p>
+
+<h3>
+Translation:
+</h3>
+<p>In captivity, those were  a necklace around a stubborn  neck; <br />
+Now, flowers lie scattered under the feet after they’ve parted!!</p>
+<h3>
+Explanation:
+</h3>
+<p>The core idea here contrasts the value of something (perhaps a relationship or an attachment) when confined versus when it is freed. The emphasis is on how freedom has rendered something (flowers, representing beauty or affection) worthless.<br /></p>
+
+<h3>
+Translation:
+</h3>
+<p>Who knows where the galaxies are in search of life; <br />
+How long will we wander aimlessly after everyone is gone?</p>
+<h3>
+Explanation:
+</h3>
+<p>This couplet reflects existential questions—wondering about the search for meaning (“galaxies in search of life”) and the endless wandering that may follow once everyone has passed away. There’s a sense of aimless searching even beyond life.</p>
+
+<h3>
+Translation:
+</h3>
+<p>Go, but remember me after I’m gone! <br />
+I hope you don’t forget everything once you move on and adorn yourself again!</p>
+<h3>
+Explanation:
+</h3>
+<p>The poet implores the listener (perhaps a lover or a close friend) to remember them after parting ways. There’s a concern that once life becomes beautiful again, the memory of their shared moments might fade.</p>
+
+<h3>
+Translation:
+</h3>
+<p>If only someone would take me in that direction, Faraz; <br />
+So I don’t have to search for a new destination once I get there!</p>
+<h3>
+Explanation:
+</h3>
+<p>Here, the poet wishes for a guide (perhaps a spiritual or emotional guide) to lead them towards a destination where no further searching is required. It’s a plea for finality, peace, and an end to constant searching for meaning.</p>
+
+<p>
+* translated &amp; explained by ChatGPT !
+</p>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name>Faraz Bukhari</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[जाओ हमको याद रखना तुम मगर जाने के बाद !! यूँ न हो सब भूल जाओ बन-संवर जाने के बाद !! . हम अभी तो क्या करें तुमसे बहस, ख़ुद देखना ; इन सितारों की सियाही तुम शरर जाने के बाद !! . ताक़ पर जो रख दिया था इक दिया उम्मीद का ; बस वही जलता मिला तूफ़ां गुज़र जाने के बाद !! . उज़्र वह भी दे सका वादा-ख़िलाफ़ी का नहीं ; और मैं भी चुप रहा उसके मुकर जाने के बाद !! . गर नहीं है नाम में कुछ आप ही फिर सुर्ख़-रु ; क्यों हुए ये ग़लतियाँ दो बार कर जाने के बाद!! . क़ैद में वह डोर की ख़ुद-सर गले का हार थे ; हैं पड़े क़दमों के नीचे गुल बिखर जाने के बाद !! . कहकशाएँ क्या पता फिर ज़िन्दग़ी की खोज में ; दर-बदर कब तक फिरें हम सब के मर जाने के बाद !! . काश ले कर कोई हमको उस तरफ़ जाए फ़राज़ ; फिर नयी मंज़िल न ढूंढें हम जिधर जाने के बाद !! .]]></summary></entry><entry><title type="html">List of my Ghazal(s)</title><link href="/jekyll/update/Ghazal/" rel="alternate" type="text/html" title="List of my Ghazal(s)" /><published>2024-10-03T14:46:01+00:00</published><updated>2024-10-03T14:46:01+00:00</updated><id>/jekyll/update/Ghazal</id><content type="html" xml:base="/jekyll/update/Ghazal/"><![CDATA[<p>You can find here the list of my Ghazal(s).</p>
+
+<p>अच्छा लगा</p>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name>Faraz Bukhari</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You can find here the list of my Ghazal(s).]]></summary></entry></feed>
