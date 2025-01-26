@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "karte hue guzra hai faqat haaye december"
+title:  "eeza-e-december"
 classes: wide
 date:   2021-12-30 7:55:01 +0530
 categories: ghazal urdu
