@@ -5,11 +5,7 @@ classes: wide
 ---
 
 <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-      background-color: #f0f8ff; /* Light bluish background */
-    }
+
 
     .table-container {
       max-width: 800px;
@@ -56,7 +52,6 @@ classes: wide
 
   <div class="table-container">
     <table>
-      <caption>Ghazal and English Translation</caption>
       <thead>
         <tr>
           <th>Ghazal (Hindi/Urdu)</th>
