@@ -290,5 +290,5 @@ show_excerpts_on_index: false
 collections:
   index_pages:
     output: true
-    permalink: /index/:name/
+    permalink: /:name/
 
