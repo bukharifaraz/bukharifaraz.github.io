@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "ghar jaata hai"
+title:  "rote guzri"
 classes: wide
 date:   2024-11-02 20:44:01 +0530
 categories: ghazal urdu
