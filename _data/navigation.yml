@@ -2,11 +2,9 @@
 main:
   - title: "Ghazal"
     url: https://bukharifaraz.github.io/ghazal-index/
-  - title: "AI/ML"
+  - title: "Blog"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Humanities"
-  #   url: /year-archive/
-  - title: "Book Log"
+  - title: "Book-log"
   #   url: /collection-archive/
-  - title: "Watch Log"
+  - title: "Watch-log"
   #   url: /sitemap/
