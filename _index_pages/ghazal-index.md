@@ -5,20 +5,7 @@ classes: wide
 ---
 
 <style>
-
-
-    .table-container {
-      max-width: 800px;
-      margin: 0 auto;
-      border-radius: 8px;
-      overflow: hidden;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    }
-
-    table {
-      width: 100%;
-      border-collapse: collapse;
-    }
+   
 
     thead {
       background-color: #007acc; /* Deep blue header */
@@ -39,13 +26,7 @@ classes: wide
       background-color: #d0ebff; /* Hover effect */
     }
 
-    caption {
-      caption-side: top;
-      margin-bottom: 10px;
-      font-size: 1.2em;
-      font-weight: bold;
-      color: #003366;
-    }
+   
   </style>
 
 
