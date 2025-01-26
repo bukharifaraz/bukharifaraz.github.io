@@ -286,3 +286,9 @@ header:
 #to stop showing list of posts on home page
 show_excerpts_on_index: false 
 
+# If you define collections (e.g., _docs/), their URLs can also be customized
+collections:
+  portfolio:
+    output: true
+    permalink: /docs/:name/
+
