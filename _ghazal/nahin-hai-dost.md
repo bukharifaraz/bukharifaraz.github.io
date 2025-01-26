@@ -3,7 +3,7 @@
 layout: single
 title:  "nahiN hai dost"
 classes: wide
-date:   2025-01-05 20:16:01 +0530
+date:   2024-10-13 22:16:01 +0530
 categories: ghazal urdu
 tags: ghazal
 ---
