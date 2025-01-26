@@ -1,9 +1,10 @@
 ---
 layout: single
-title:  "जिधर जाने के बाद"
+title:  "jidhar jaane ke baad"
 classes: wide
 date:   2024-10-03 20:16:01 +0530
 categories: jekyll update
+tags: ghazal
 ---
 
 <br>
