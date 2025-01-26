@@ -3,7 +3,7 @@ layout: single
 title: Ghazal Collection
 ---
 
-<ul>
+<ol>
   {% for item in site.ghazal %}
     <li>
       <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
@@ -11,7 +11,7 @@ title: Ghazal Collection
     </li>
   <hr>
   {% endfor %}
-</ul>
+</ol>
 
 
 
