@@ -20,7 +20,7 @@ It's (merely) your opinion, I don't agree !<br>
 </p>
 
 
-<p>
+<p stlye='font:20px'>
 Read full <a>here</a>..
 </p>
 
