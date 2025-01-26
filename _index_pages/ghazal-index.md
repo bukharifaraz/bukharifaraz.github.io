@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single 
 title:  मेरी ग़ज़लें 
 classes: wide
 ---
