@@ -288,7 +288,7 @@ show_excerpts_on_index: false
 
 # If you define collections (e.g., _docs/), their URLs can also be customized
 collections:
-  docs:
+  index_pages:
     output: true
-    permalink: /docs/:name/
+    permalink: /index/:name/
 
