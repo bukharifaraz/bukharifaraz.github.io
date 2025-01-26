@@ -291,4 +291,7 @@ collections:
   index_pages:
     output: true
     permalink: /:name/
+  ghazal:
+    output: true
+    permalink: ghazal/:name/
 
