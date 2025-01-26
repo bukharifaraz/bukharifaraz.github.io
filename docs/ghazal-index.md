@@ -1,1 +1,4 @@
+---
+permalink: /custom-url/
+---
 adf
