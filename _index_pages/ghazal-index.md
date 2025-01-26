@@ -8,6 +8,6 @@ categories: jekyll update
 
 <ol>
 <li> <a  href ='https://bukharifaraz.github.io/ghazal-index/'>इक बार देखना </a> </li>
-<li> <a  href ='https://bukharifaraz.github.io/ghazal/jidhar-jane-ke-baad/'> Jidhar Jaane ke baad </a> </li>
+<li> <a  href ='https://bukharifaraz.github.io/ghazal/jidhar-jaane-ke-baad/'> Jidhar Jaane ke baad </a> </li>
   
 </ol>
