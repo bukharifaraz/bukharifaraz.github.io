@@ -15,8 +15,8 @@ author_profile: true
 
 
 <p>
-A remarkable poet, "Bukhari Faraz" is ; <br>
-It's your opinion, I don't agree !<br>
+As a poet "Bukhari Faraz" is remarkable ! <br>
+It's (merely) your opinion, I don't agree !<br>
 </p>
 
 
@@ -24,4 +24,4 @@ It's your opinion, I don't agree !<br>
 Read full <a>here</a>..
 </p>
 
-<hr>
+
