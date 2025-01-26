@@ -3,7 +3,7 @@ title:  "ik baar dekhna"
 classes: wide
 date:   2025-01-05 20:16:01 +0530
 categories: ghazal 
-taga: [ghazal]
+tags: [ghazal]
 ---
 
 .
