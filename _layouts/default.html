@@ -17,17 +17,7 @@
       {% include after-content.html %}
     </div>
 
-    <nav class="tabs">
-  <ul>
-    {% for tab in site.data.navigation.tabs %}
-      <li>
-        <a href="{{ tab.url }}" {% if page.url == tab.url %}class="active"{% endif %}>
-          {{ tab.name }}
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-</nav>
+
 
     {% if site.search == true %}
       <div class="search-content">
