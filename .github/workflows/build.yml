@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: self-hosted # Use a supported GitHub-hosted runner
+    runs-on: ubuntu-latest # Use a supported GitHub-hosted runner
 
     steps:
       - name: Checkout repository
