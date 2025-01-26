@@ -6,6 +6,6 @@ classes: wide
 
 
 <ol>
-<li> <a >इक बार देखना </a> </li>
+<li> <a  href ='https://bukharifaraz.github.io/ghazal-index/'>इक बार देखना </a> </li>
   
 </ol>
