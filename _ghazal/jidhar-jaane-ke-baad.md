@@ -2,8 +2,8 @@
 layout: single
 title:  "jidhar jaane ke baad"
 classes: wide
-date:   2024-10-03 20:16:01 +0530
-categories: jekyll update
+date:   2020-06-13 21:07:01 +0530
+categories: urdu ghazal
 tags: ghazal
 ---
 
