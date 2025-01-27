@@ -2,7 +2,7 @@
 layout: single
 title:  "haNste nahiN rone waale"
 classes: wide
-date:   2021-12-03 04:15:01 +0530
+date:   2020-12-03 04:15:01 +0530
 categories: ghazal urdu
 tags: ghazal
 ---
