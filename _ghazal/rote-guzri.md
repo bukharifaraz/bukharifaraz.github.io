@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "ghar jaata hai"
+title:  "zindagi baad meiN rote guzri"
 classes: wide
 date:   2024-08-26 00:38:01 +0530
 categories: ghazal urdu
