@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "wapas safar accha laga"
+title:  "saajha nahiN kareNge"
 classes: wide
 date:   2019-06-29 16:07:01 +0530
 categories: ghazal urdu
