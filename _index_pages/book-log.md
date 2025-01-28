@@ -57,20 +57,20 @@ title: Book Log
 
 <li>
   <div><b>Aurangzeb: The Man and the Myth </b></div>
-  <div>~ Vibhuti Narayan Rai, 2021 <span style='color:gray'>(May '22)</span></div>
+  <div>~ Audrey Truschke, 2017 <span style='color:gray'>(May '22)</span></div>
 </li>
 
 
 
 <li>
   <div><b>In the Name of God: A History of Christian and Muslim Intolerance </b></div>
-  <div>~ Vibhuti Narayan Rai, 2021 <span style='color:gray'>(May '22)</span></div>
+  <div>~ Selina O'Grady, 2019 <span style='color:gray'>(Apr '22)</span></div>
 </li>
 
 
 <li>
   <div><b>Our Moon Has Blood Clots: A Memoir of a Lost Home in Kashmir </b></div>
-  <div>~ Vibhuti Narayan Rai, 2021 <span style='color:gray'>(May '22)</span></div>
+  <div>~ Rahul Pandita, 2013 <span style='color:gray'>(Mar '22)</span></div>
 </li>
 
 
