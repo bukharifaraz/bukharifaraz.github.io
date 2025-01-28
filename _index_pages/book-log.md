@@ -146,7 +146,12 @@ title: Book Log
   <div><b>	Seven Brief Lessons on Physics </b></div>
   <div>~ Carlo Rovelli, 2014 <span style='color:gray'>(Oct '20)</span></div>
 </li>
+<li>
+  <div><b>India Wins Freedom: The Complete Version</b></div>
+  <div>~ Abul Kalam Azad, 1978 <span style='color:gray'>(Apr '20)</span></div>
+</li>
 
+	
 
 </ol>
 
