@@ -73,5 +73,10 @@ title: Book Log
   <div>~ Rahul Pandita, 2013 <span style='color:gray'>(Mar '22)</span></div>
 </li>
 
+<li>
+  <div><b>Curfewed Night </b></div>
+  <div>~ Basharat Peer, 2009 <span style='color:gray'>(Mar '22)</span></div>
+</li>
+
 
 </ol>
