@@ -14,7 +14,7 @@ title: Book Log
   
 </li>
 </ol>
-
+<hr>
 <h3>2024</h3>
 
 <ol>
@@ -24,7 +24,7 @@ title: Book Log
 </li>
 </ol>
 
-
+<hr>
 <h3>2023</h3>
 
 <ol>
@@ -37,7 +37,7 @@ title: Book Log
   <div>~ Atul Gawande, 2014 <span style='color:gray'>(May '23)</span></div>
 </li>
 </ol>
-
+<hr>
 <h3>2022</h3>
 <ol>
 <li>
