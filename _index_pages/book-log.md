@@ -154,6 +154,10 @@ title: Book Log
   <div><b>Listening To Grasshoppers: Field Notes On Democracy</b></div>
   <div>~ Arundhati Roy, 2009 <span style='color:gray'>(Jan '19)</span></div>
 </li>
+<li>
+  <div><b>History of Modern India</b></div>
+  <div>~ Bipan Chandra, 2009 <span style='color:gray'>(Jan '19)</span></div>
+</li>
 
 	
 
