@@ -80,3 +80,65 @@ title: Book Log
 
 
 </ol>
+
+
+
+
+
+<hr>
+<h3>2021</h3>
+<ol>
+  <li>
+  <div><b>	In the Shadow of the Sword: The Battle for Global Empire and the End of the Ancient World </b></div>
+  <div>~ Tom Holland, 2012 <span style='color:gray'>(Dec '21)</span></div>
+</li>
+  
+<li>
+  <div><b>The Communist Manifesto</b></div>
+  <div>~ Marx, Engels, 1848 <span style='color:gray'>(Aug '21)</span></div>
+</li>
+
+  <li>
+  <div><b>Annihilation of Caste</b></div>
+  <div>~ B. R. Ambedkar, 1936 <span style='color:gray'>(Aug '21)</span></div>
+</li>
+
+  <li>
+  <div><b>The Doctor & the Saint</b></div>
+  <div>~ Arundhati Roy, 2014 <span style='color:gray'>(Aug '21)</span></div>
+</li>
+
+
+
+<li>
+  <div><b>The Art Of Saying NO </b></div>
+  <div>~ Damon Zahariades, 2017 <span style='color:gray'>(Jul '21)</span></div>
+</li>
+
+
+
+<li>
+  <div><b>India's Ancient Past </b></div>
+  <div>~ R.S. Sharma, 2005 <span style='color:gray'>(May '21)</span></div>
+</li>
+
+
+<li>
+  <div><b>उसने गांधी को क्यों मारा  </b></div>
+  <div>~ Ashok Kumar Pandey, 2020 <span style='color:gray'>(May '21)</span></div>
+</li>
+</ol>
+
+
+<hr>
+<h3>2020</h3>
+<ol>
+<li>
+  <div><b>	Seven Brief Lessons on Physics </b></div>
+  <div>~ Carlo Rovelli, 2014 <span style='color:gray'>(Oct '20)</span></div>
+</li>
+
+
+</ol>
+
+
