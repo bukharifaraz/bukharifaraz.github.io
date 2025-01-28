@@ -156,3 +156,23 @@ Is God a Mathematician? </b></div>
 </ol>
 
 
+
+
+
+
+
+
+
+
+
+
+<hr>
+<h3>2017</h3>
+<ol>
+<li>
+  <div><b>Economics in One Lesson</b></div>
+  <div>~ Henry Hazlitt, 1946 <span style='color:gray'>(Jun '17)</span></div>
+</li>
+
+
+</ol>
