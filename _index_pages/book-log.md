@@ -39,7 +39,7 @@ title: Book Log
 </ol>
 
 <h3>2022</h3>
-<ol
+<ol>
 <li>
   <div><b>A Feast of Vultures: The Hidden Business of Democracy in India</b></div>
   <div>~ Josy Joseph, 2016 <span style='color:gray'>(Jul '22)</span></div>
