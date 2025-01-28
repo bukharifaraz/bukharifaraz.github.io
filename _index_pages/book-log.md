@@ -127,12 +127,21 @@ title: Book Log
   <div><b>उसने गांधी को क्यों मारा  </b></div>
   <div>~ Ashok Kumar Pandey, 2020 <span style='color:gray'>(May '21)</span></div>
 </li>
+
+<li>
+  <div><b>Zealot: The Life and Times of Jesus of Nazareth  </b></div>
+  <div>~ Reza Aslan, 2013 <span style='color:gray'>(Mar '21)</span></div>
+</li>
 </ol>
 
 
 <hr>
 <h3>2020</h3>
 <ol>
+<li>
+  <div><b>No God but God: The Origins, Evolution and Future of Islam </b></div>
+  <div>~ Reza Aslan, 2005 <span style='color:gray'>(Nov '20)</span></div>
+</li>
 <li>
   <div><b>	Seven Brief Lessons on Physics </b></div>
   <div>~ Carlo Rovelli, 2014 <span style='color:gray'>(Oct '20)</span></div>
