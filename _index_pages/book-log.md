@@ -138,6 +138,12 @@ title: Book Log
 <hr>
 <h3>2020</h3>
 <ol>
+	
+
+<li>
+  <div><b>Early Indians: The Story of Our Ancestors and Where We Came From </b></div>
+  <div>~ Tony Joseph, 2018 <span style='color:gray'>(Nov '20)</span></div>
+</li>
 <li>
   <div><b>No God but God: The Origins, Evolution and Future of Islam </b></div>
   <div>~ Reza Aslan, 2005 <span style='color:gray'>(Nov '20)</span></div>
@@ -145,6 +151,10 @@ title: Book Log
 <li>
   <div><b>	Seven Brief Lessons on Physics </b></div>
   <div>~ Carlo Rovelli, 2014 <span style='color:gray'>(Oct '20)</span></div>
+</li>
+<li>
+  <div><b>Homo Deus: A History of Tomorrow/b></div>
+  <div>~ Yuval Noah Harari, 105 <span style='color:gray'>(Oct '20)</span></div>
 </li>
 <li>
   <div><b>India Wins Freedom: The Complete Version</b></div>
@@ -160,6 +170,10 @@ title: Book Log
 <hr>
 <h3>2019</h3>
 <ol>
+	<li>
+  <div><b>Sapiens: A Brief History of Humankind</b></div>
+  <div>~ Yuval Noah Harari, 2015 <span style='color:gray'>(Jun '19)</span></div>
+</li>
 <li>
   <div><b>Is God a Mathematician? </b></div>
   <div>~ Carlo Rovelli, 2009 <span style='color:gray'>(Jan '19)</span></div>
