@@ -170,7 +170,7 @@ title: Book Log
 <hr>
 <h3>2019</h3>
 <ol>
-	<li>
+<li>
   <div><b>Sapiens: A Brief History of Humankind</b></div>
   <div>~ Yuval Noah Harari, 2015 <span style='color:gray'>(Jun '19)</span></div>
 </li>
