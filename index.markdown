@@ -20,7 +20,7 @@ It's (merely) your opinion, I don't agree !<br>
 
 
 <p stlye='font:20px'>
-Read full <a>here</a>..
+Read full <a href='https://bukharifaraz.github.io/ghazal/dekha-suna-ham-nahin-maante/'>here</a>..
 </p>
 
 
