@@ -142,3 +142,17 @@ title: Book Log
 </ol>
 
 
+
+<hr>
+<h3>2019</h3>
+<ol>
+<li>
+  <div><b>		
+Is God a Mathematician? </b></div>
+  <div>~ Carlo Rovelli, 2009 <span style='color:gray'>(Jan '19)</span></div>
+</li>
+
+
+</ol>
+
+
