@@ -153,7 +153,7 @@ title: Book Log
   <div>~ Carlo Rovelli, 2014 <span style='color:gray'>(Oct '20)</span></div>
 </li>
 <li>
-  <div><b>Homo Deus: A History of Tomorrow/b></div>
+  <div><b>Homo Deus: A History of Tomorrow</b></div>
   <div>~ Yuval Noah Harari, 105 <span style='color:gray'>(Oct '20)</span></div>
 </li>
 <li>
