@@ -81,4 +81,4 @@ tags: [ghazal, poetry]
             <div class="message assistant">That’s almost inevitable. History shows that powerful technologies are rarely left unused, and those in power often exploit them for personal or political gain. AI won’t be an exception—it’s already being trained for corporate profit, surveillance, military strategy, and manipulation.<br><br>The real concern is **who controls AI** and **what incentives they have**. If AI development is driven by:<br>- **Profit motives** → It will be optimized for maximum engagement, consumerism, and manipulation.<br>- **Military objectives** → It will be optimized for strategic dominance, even at the cost of human lives.<br>- **Authoritarian regimes** → It will be optimized for surveillance, control, and suppression of dissent.<br><br>The worst-case scenario isn’t AI turning against humanity—it’s **humans turning AI against other humans**.<br><br>So what’s your take? Do you think we have a chance at **aligning AI with human well-being**, or is it already too late?</div>
         </div>
     </div>
-
+![Uploading image.png…]()
