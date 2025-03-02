@@ -10,7 +10,7 @@ As <a href='https://www.rekhta.org/poets/jigar-moradabadi/all'> Jigar Muradabaad
 </p>
 <p>
 क्या लुत्फ़ कि मैं अपना पता आप बताऊँ <br>
-कीजे कोई भूली हुई ख़ास अपनी अदा याद
+कीजे कोई भूली हुई ख़ास अपनी अदा <a href='https://www.rekhta.org/ghazals/duniyaa-ke-sitam-yaad-na-apnii-hii-vafaa-yaad-jigar-moradabadi-ghazals?lang=hi'> याद </a>
 </p>
 <p>
   There is no joy in introducing oneself unsolicited. True recognition should come when the other person relates with us through their own self-realization. 
@@ -20,7 +20,7 @@ I have a passion for writing Ghazals in Urdu/Hindi. You can explore a collection
 </p>
 
 <p>
- 
+ Thanks for visiting !
 </p>
 
 <hr>
