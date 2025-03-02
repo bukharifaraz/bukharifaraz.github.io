@@ -6,6 +6,18 @@ layout: home
 author_profile: true
 ---
 <p>
+As Jigar Muradabaadi said:
+</p>
+<p>
+क्या लुत्फ़ कि मैं अपना पता आप बताऊँ
+कीजे कोई भूली हुई ख़ास अपनी अदा याद
+</p>
+<p>
+I too belong to the species of Homo Sapiens and carry within me a blend of popular virtues and vices. Among the qualities I can confidently claim, truthfulness stands out. I have a passion for writing Ghazals in Urdu. You can explore a collection of my work <a href='https://bukharifaraz.github.io/ghazal-index/'>here</a>."
+</p>
+
+
+<p>
 اک شاعر ہے اچھا بخاری فراز<br>
   ہے خیال آپکا ہَم نہیں مانتے<br>
 </p>
