@@ -22,10 +22,8 @@ I have a passion for writing Ghazals in Urdu. You can explore a collection of my
 <hr>
 
 
-<p stlye='font:20px'>
-Read full <a href='https://bukharifaraz.github.io/ghazal/dekha-suna-ham-nahin-maante/'>here</a>..
-</p>
 
-<hr>
+
+
 
 
