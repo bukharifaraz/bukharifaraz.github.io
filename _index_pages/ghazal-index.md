@@ -2,6 +2,7 @@
 layout: single
 title: Ghazal Collection
 ---
+<hr>
 <div style='text-align:center'>
 <p>
 اک شاعر ہے اچھا بخاری فراز<br>
@@ -18,8 +19,8 @@ It's (merely) your opinion, I don't agree !<br>
 <p stlye='font:20px'>
 Read full <a href='https://bukharifaraz.github.io/ghazal/dekha-suna-ham-nahin-maante/'>here</a>..
 </p>
-
   </div>
+  <hr>
   
 <ol>
   {% for item in site.ghazal %}
