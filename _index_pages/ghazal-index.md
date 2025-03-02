@@ -14,7 +14,7 @@ title: Ghazal Collection
 
 <p>
 As a poet "Bukhari Faraz" is remarkable ! <br>
-It's (merely) your opinion, I don't agree !<br>
+It's your opinion, (which) I don't agree with !<br>
 </p>
 <p stlye='font:20px'>
 Read full <a href='https://bukharifaraz.github.io/ghazal/dekha-suna-ham-nahin-maante/'>here</a>..
