@@ -16,7 +16,7 @@ As <a href='https://www.rekhta.org/poets/jigar-moradabadi/all'> Jigar Muradabaad
   There is no joy in introducing oneself unsolicited. True recognition should come when the other person relates with us through their own self-realization. 
 <p>
   <hr>
-I have a passion for writing Ghazals in Urdu/Hindi. You can explore a collection of my work <a href='https://bukharifaraz.github.io/ghazal-index/'>here</a>."
+I have a passion for writing Ghazals in Urdu/Hindi. You can explore a collection of my work <a href='https://bukharifaraz.github.io/ghazal-index/'>here</a>.
 </p>
 
 <p>
