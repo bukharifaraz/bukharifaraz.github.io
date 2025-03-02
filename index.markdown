@@ -13,7 +13,9 @@ As Jigar Muradabaadi said:
 कीजे कोई भूली हुई ख़ास अपनी अदा याद
 </p>
 <p>
-I too belong to the species of Homo Sapiens and carry within me a blend of popular virtues and vices. Among the qualities I can confidently claim, truthfulness stands out. I have a passion for writing Ghazals in Urdu. You can explore a collection of my work <a href='https://bukharifaraz.github.io/ghazal-index/'>here</a>."
+  There is no joy in introducing oneself unsolicited. True recognition should come when the other person recalls us through their own self-realization 
+<p>
+I belong to the species of Homo Sapiens and carry within me a blend of popular virtues and vices. I have a passion for writing Ghazals in Urdu. You can explore a collection of my work <a href='https://bukharifaraz.github.io/ghazal-index/'>here</a>."
 </p>
 
 
