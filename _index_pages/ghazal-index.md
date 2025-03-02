@@ -1,5 +1,6 @@
 ---
-layout: author_profile
+layout: single
+author_profile: true
 title: Ghazal Collection
 ---
 <hr>
