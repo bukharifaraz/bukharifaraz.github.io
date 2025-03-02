@@ -2,7 +2,7 @@
 layout: single
 title: Ghazal Collection
 ---
-<div>
+<div style='align:center'>
 <p>
 اک شاعر ہے اچھا بخاری فراز<br>
   ہے خیال آپکا ہَم نہیں مانتے<br>
