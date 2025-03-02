@@ -6,7 +6,7 @@ layout: home
 author_profile: true
 ---
 <p>
-As <a href'https://www.rekhta.org/poets/jigar-moradabadi/all'> Jigar Muradabaadi </a> said:
+As <a href='https://www.rekhta.org/poets/jigar-moradabadi/all'> Jigar Muradabaadi </a> said:
 </p>
 <p>
 क्या लुत्फ़ कि मैं अपना पता आप बताऊँ <br>
@@ -16,22 +16,10 @@ As <a href'https://www.rekhta.org/poets/jigar-moradabadi/all'> Jigar Muradabaadi
   There is no joy in introducing oneself unsolicited. True recognition should come when the other person recalls us through their own self-realization 
 <p>
   <hr>
-I belong to the species of Homo Sapiens and carry within me a blend of popular virtues and vices. I have a passion for writing Ghazals in Urdu. You can explore a collection of my work <a href='https://bukharifaraz.github.io/ghazal-index/'>here</a>."
+I have a passion for writing Ghazals in Urdu. You can explore a collection of my work <a href='https://bukharifaraz.github.io/ghazal-index/'>here</a>."
 </p>
 
 <hr>
-<p>
-اک شاعر ہے اچھا بخاری فراز<br>
-  ہے خیال آپکا ہَم نہیں مانتے<br>
-</p>
-
-
-
-
-<p>
-As a poet "Bukhari Faraz" is remarkable ! <br>
-It's (merely) your opinion, I don't agree !<br>
-</p>
 
 
 <p stlye='font:20px'>
