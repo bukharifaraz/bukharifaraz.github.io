@@ -37,7 +37,7 @@ Read full <a href='https://bukharifaraz.github.io/ghazal/dekha-suna-ham-nahin-ma
   </div>
   <hr>
   
-<ol>
+<ul>
 {% assign sorted_ghazal = site.ghazal | sort: 'date' | reverse %}
 {% for item in sorted_ghazal %}
     <li>
@@ -46,7 +46,7 @@ Read full <a href='https://bukharifaraz.github.io/ghazal/dekha-suna-ham-nahin-ma
     </li>
   <hr>
   {% endfor %}
-</ol>
+</ul>
 
 
 
