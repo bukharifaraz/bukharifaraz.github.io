@@ -6,12 +6,15 @@ title: Ghazal Collection
 <hr>
 <div style='text-align:center'>
 <p style="
-    font-family: 'Traditional Arabic', 'Diwan Thuluth', serif;
-    font-size: 24px;
-    color: gold;
-    text-shadow: 2px 2px 4px #b8860b, 0 0 10px #ffcc00;
-    direction: rtl;
-    text-align: center;
+  font-family: 'Amiri', 'Lateef', 'Scheherazade', serif; /* Arabic calligraphy-friendly fonts */
+  font-size: 2rem; /* Adjust size as needed */
+  color: #D4AF37; /* Golden color */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); /* Adds depth to the text */
+  background: linear-gradient(to right, #D4AF37, #FFD700); /* Gradient for a golden effect */
+  -webkit-background-clip: text; /* Clips the background to the text */
+  -webkit-text-fill-color: transparent; /* Makes the text transparent to show the gradient */
+  text-align: center; /* Centers the text */
+  line-height: 1.6; /* Improves readability */
 ">
 اک شاعر ہے اچھا بخاری فراز<br>
   ہے خیال آپکا ہَم نہیں مانتے<br>
