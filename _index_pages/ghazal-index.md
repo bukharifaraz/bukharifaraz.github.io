@@ -24,7 +24,8 @@ Read full <a href='https://bukharifaraz.github.io/ghazal/dekha-suna-ham-nahin-ma
   <hr>
   
 <ol>
-  {% for item in site.ghazal | sort: "date" | reverse %}
+{% assign sorted_ghazal = site.ghazal | sort: 'date' | reverse %}
+{% for item in sorted_ghazal %}
     <li>
       <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
       <span style='color:gray'> - {{ item.date | date: "%B %d, %Y" }}</span>
