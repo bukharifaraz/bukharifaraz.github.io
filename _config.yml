@@ -84,6 +84,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
       url: "https://x.com/faraz_bukhari"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@opec-jee"
 
 # Site Footer
 footer:
