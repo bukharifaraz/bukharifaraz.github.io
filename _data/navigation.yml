@@ -2,9 +2,9 @@
 main:
   - title: "Ghazal"
     url: https://bukharifaraz.github.io/ghazal-index/
-  - title: "Blog"
-    url: https://bukharifaraz.github.io/blog-index/
   - title: "Book Log"
     url: https://bukharifaraz.github.io/book-log/
+  - title: "Blog"
+    url: https://bukharifaraz.github.io/blog-index/
   - title: "Watch Log"
   #   url: /sitemap/
