@@ -297,7 +297,7 @@ collections:
   ghazal:
     output: true
     permalink: ghazal/:name/
-  RL:
+  rl:
     output: true
     permalink: rl/:name/
 
