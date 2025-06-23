@@ -7,3 +7,4 @@ categories: RL ML AI
 tags: RL
 ---
 
+<img src="/assets/rl_images/intro_cliff_grid.gif" alt="Grid with Cliff" />
