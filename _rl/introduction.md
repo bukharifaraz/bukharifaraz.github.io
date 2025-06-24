@@ -45,4 +45,4 @@ tags: RL
 </div>
 
 <hr>
-<div>[1]: optimality can be defined in different ways like least time taken, least steps taken, farthest from the cliff etc.</div>
+<div>[1] optimality can be defined in different ways like least time taken, least steps taken, farthest from the cliff etc.</div>
