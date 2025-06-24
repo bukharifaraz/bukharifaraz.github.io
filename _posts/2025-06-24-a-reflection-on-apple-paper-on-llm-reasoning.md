@@ -2,7 +2,7 @@
 layout: single
 title:  "A Reflection"
 classes: wide
-date:   2025-02-11 19:22:01 +0530
+date:   2025-06-24 19:22:01 +0530
 categories: post
 tags: [islam, philosophy, history]
 ---
