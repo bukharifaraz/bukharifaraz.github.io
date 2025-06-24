@@ -22,7 +22,7 @@ And now, in the 21st century, while much of the Muslim world still continues to 
 What an incredible progress for the world, and what a sobering reminder of intellectual decline for a civilization that once led it!
 </p>
 
-  <img href="/assets/post_images/final.png" />
+  <img src="/assets/post_images/final.png" />
 
   
 
