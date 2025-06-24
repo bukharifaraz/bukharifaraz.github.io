@@ -18,10 +18,17 @@ tags: RL
 
 <img src="/assets/rl_images/intro_cliff_grid_soln.gif" alt="Solution" />
 
-<p>We use Reinforcement Learning to solve such kind of 'sequential decision making' problems.</p>
+<p>Reinforcement Learning is one way to solve such kind of 'sequential decision making' problems.</p>
 
 
-
+<h3>Methods of Solving Sequential Decision Making Problems</h3>
+<ol>
+  <li>Explicit Programming</li>
+  <li>Supervised learning</li>
+  <li>Optimization</li>
+  <li>Planning</li>
+  <li>Reinforcement Learning</li>
+</ol>
 
 
 <div>[1]: optimality can be defined in different ways like least time taken, least steps taken, farthest from the cliff etc.</div>
