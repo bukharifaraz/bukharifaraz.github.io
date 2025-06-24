@@ -7,11 +7,11 @@ categories: post
 tags: [islam, philosophy, history]
 ---
 <p>
-Apple recently published a paper titled <a src="https://machinelearning.apple.com/research/illusion-of-thinking">"The Illusion of Thinking"</a>, arguing that the Large Langue Models (such as ChatGPT) do not actually engage in human-like thinking but merely function as sophisticated pattern recognisers. In response, Anthropic released a rebuttal titled <a src="https://arxiv.org/html/2506.09250v1">"The Illusion of the Illusion of Thinking"</a>, pointing out the flaws and oversimplifications in Apple’s conclusions.
+Apple recently published a paper titled <a href="https://machinelearning.apple.com/research/illusion-of-thinking">"The Illusion of Thinking"</a>, arguing that the Large Langue Models (such as ChatGPT) do not actually engage in human-like thinking but merely function as sophisticated pattern recognisers. In response, Anthropic released a rebuttal titled <a href="https://arxiv.org/html/2506.09250v1">"The Illusion of the Illusion of Thinking"</a>, pointing out the flaws and oversimplifications in Apple’s conclusions.
 </p><p>
 What first caught my attention were the titles themselves — not just provocative, but echoing something older and deeper. They immediately reminded me of the legendary intellectual clash between Al-Ghazali and Ibn Rushd. 
 </p><p>
-In the 12th century, Al-Ghazali authored <a src="https://en.wikipedia.org/wiki/The_Incoherence_of_the_Philosophers">"The Incoherence of the Philosophers"</a>, challenging the rationalist tradition of Islamic thought. Ibn Rushd responded with his iconic rebuttal, <a src="https://en.wikipedia.org/wiki/The_Incoherence_of_the_Incoherence">"The Incoherence of the Inchoherence"</a> — a bold defence of reason against rising theological orthodoxy.
+In the 12th century, Al-Ghazali authored <a href="https://en.wikipedia.org/wiki/The_Incoherence_of_the_Philosophers">"The Incoherence of the Philosophers"</a>, challenging the rationalist tradition of Islamic thought. Ibn Rushd responded with his iconic rebuttal, <a href="https://en.wikipedia.org/wiki/The_Incoherence_of_the_Incoherence">"The Incoherence of the Inchoherence"</a> — a bold defence of reason against rising theological orthodoxy.
 </p><p>
 8th to 13th century marked the golden age of Muslim intellectualism — when the Muslim world led the globe in metaphysics, logic, medicine, astronomy, and epistemology. Minds were alive with inquiry, and disagreement was a sign of vitality. The debates were fierce, the scholarship rigorous, and the result was a civilization that refined old wisdom while daring to explore new frontiers. It was a civilisation that questioned, argued, and evolved. 
 </p><p>
@@ -22,6 +22,7 @@ And now, in the 21st century, while much of the Muslim world still continues to 
 What an incredible progress for the world, and what a sobering reminder of intellectual decline for a civilization that once led it!
 </p>
 
-  <img src="https://github.com/user-attachments/assets/post_images/final.png" />
+  <img href="/assets/post_images/final.png" />
+
   
 
