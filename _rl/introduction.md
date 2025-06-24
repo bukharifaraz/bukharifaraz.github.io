@@ -38,8 +38,6 @@ tags: RL
   <li>No supervision is available to get the training. Learning happens via <u>trial & error</u>.  </li>
   <li>Decisions are to be taken one after the other. These are called '<u>sequential decisions</u>'. </li>
   <li>A decision taken in the very beginning can lead to a sub-optimal solution at the end. We call this as '<u>delayed reward</u>'. </li>
-  <li></li>
-  <li></li>
 </ul>
 
 <hr>
