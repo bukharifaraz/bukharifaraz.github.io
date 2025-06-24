@@ -32,13 +32,17 @@ tags: RL
 
 <h3>What is Reinforcement Learning (RL)?</h3>
 <p>
-  RL is simply a way to learn sequential decision making using experience (or trial & error) 
+  In the layman terms, RL is a way to learn sequential decision making using experience (or trial & error) 
+ 
 </p>
-<ul> <u>RL has the following characteristics:</u>
+<div>
+   <u>RL has the following characteristics:</u>
+<ul> 
   <li>No supervision is available to get the training. Learning happens via <u>trial & error</u>.  </li>
   <li>Decisions are to be taken one after the other. These are called '<u>sequential decisions</u>'. </li>
   <li>A decision taken in the very beginning can lead to a sub-optimal solution at the end. We call this as '<u>delayed reward</u>'. </li>
 </ul>
+</div>
 
 <hr>
 <div>[1]: optimality can be defined in different ways like least time taken, least steps taken, farthest from the cliff etc.</div>
