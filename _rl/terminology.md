@@ -81,7 +81,7 @@ tags: RL
 <h3>Interaction Cycle</h3>
 <p>
 Loop:
-    Observe state (s_t)
+    Observe state \(s_t\)
     Choose action (a_t) based on policy π(s_t)
     Receive reward (r_t) and next state (s_{t+1}) from the environment
     Update policy to improve future decisions
