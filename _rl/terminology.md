@@ -58,7 +58,7 @@ tags: RL
 
 
 
-<li><b>Policy (\pi)</b>
+<li><b>Policy (\(  \pi \)</b>
   <p>
      The strategy the agent uses to decide actions.
   </p>
