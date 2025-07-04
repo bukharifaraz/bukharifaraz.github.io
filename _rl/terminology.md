@@ -19,7 +19,7 @@ tags: RL
 <p>
     In the context of RL, 'Agent is the "decision-maker" while solving a sequential decision making problem. It can also be called "learner" i.e. the one who learns to make sequential decisions. 
   </p>
-<p style="color:green">
+<p style="color:green!important;">
   In the cliff problem above, the little elf-like figure is the agent, as it makes a decision at each step regarding the direction in which to move.
 </p>
   
