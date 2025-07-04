@@ -10,23 +10,14 @@ tags: RL
 <div>
 <h3>Markov Process</h3>
 
-
-
-# What is a Markov Process?
-
 A **Markov Process** is a type of stochastic process that satisfies the *Markov property* — the idea that the future state depends only on the current state, not the sequence of past states.
 
----
 
-## Layman Definition
+<h3>Layman Definition</h3>
 
-In simple terms, a Markov Process is like a memoryless system:  
-Where you are now is all that matters in deciding where you go next.  
-The path you took to reach here does not affect the next step.
+In simple terms, a Markov Process is like a memoryless system:  Where you are now is all that matters in deciding where you go next. The path you took to reach here does not affect the next step.
 
----
-
-## Formal Definition
+<h3>Formal Definition</h3>
 
 A Markov Process is defined as a tuple:
 
@@ -51,9 +42,9 @@ $$
 \Pr(S_{t+1} = s' \mid S_t = s, S_{t-1} = s_{t-1}, \dots, S_0 = s_0) = \Pr(S_{t+1} = s' \mid S_t = s)
 $$
 
----
 
-## Use Cases
+
+<h3>Use cases</h3>
 
 Markov Processes are widely used in fields such as:
 
