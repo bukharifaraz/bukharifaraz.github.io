@@ -9,6 +9,8 @@ tags: RL
 
 <h3>Important Terms used in Reinforcement Learning:</h3>
 
+<p>We will use the following cliff-problem which was mentioned in the <a href="https://bukharifaraz.github.io/rl/introduction/">introduction-post</a> to describe the important terms which are used throughout the RL course: </p>
+<img src="/assets/rl_images/intro_cliff_grid.gif" alt="Grid with Cliff" />
 <ol>
 <li><b>Agent</b>
   <p>
