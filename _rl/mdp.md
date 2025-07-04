@@ -10,45 +10,59 @@ tags: RL
 <div>
 <h3>Markov Process</h3>
 
-A \textbf{Markov Process} is a type of stochastic (random) process that satisfies the \textit{Markov property} — the principle that the future state of a system depends only on the present state, not on the sequence of events that preceded it.
 
-\section*{Layman Definition}
 
-In simple terms, a Markov Process is like a memoryless system: where you are now is all that matters in determining where you go next. The path you took to get here doesn’t affect your next step.
+# What is a Markov Process?
 
-\section*{Formal Definition}
+A **Markov Process** is a type of stochastic process that satisfies the *Markov property* — the idea that the future state depends only on the current state, not the sequence of past states.
 
-A Markov Process is formally defined as a tuple:
-\[
+---
+
+## Layman Definition
+
+In simple terms, a Markov Process is like a memoryless system:  
+Where you are now is all that matters in deciding where you go next.  
+The path you took to reach here does not affect the next step.
+
+---
+
+## Formal Definition
+
+A Markov Process is defined as a tuple:
+
+$$
 (S, P)
-\]
+$$
+
 where:
 
-\begin{itemize}[leftmargin=2em]
-    \item $S$ is a (finite or infinite) set of states.
-    \item $P$ is a transition probability matrix or function, where:
-    \[
-    P(s' \mid s) = \Pr(S_{t+1} = s' \mid S_t = s)
-    \]
-    This means that the probability of moving to state $s'$ at time $t+1$ depends only on the current state $s$ at time $t$.
-\end{itemize}
+- $S$ is a (finite or infinite) set of states.
+- $P$ is a transition probability function, such that:
 
-This satisfies the \textbf{Markov Property}:
-\[
+$$
+P(s' \mid s) = \Pr(S_{t+1} = s' \mid S_t = s)
+$$
+
+This means the probability of moving to state $s'$ at time $t+1$ depends only on the current state $s$ at time $t$.
+
+This satisfies the **Markov Property**:
+
+$$
 \Pr(S_{t+1} = s' \mid S_t = s, S_{t-1} = s_{t-1}, \dots, S_0 = s_0) = \Pr(S_{t+1} = s' \mid S_t = s)
-\]
+$$
 
-\section*{Use Cases of Markov Processes}
+---
 
-Markov Processes are widely used in various domains, including:
+## Use Cases
 
-\begin{itemize}[leftmargin=2em]
-    \item \textbf{Economics}: Modeling market trends and consumer behavior.
-    \item \textbf{Biology}: Modeling gene expression and evolutionary dynamics.
-    \item \textbf{Natural Language Processing (NLP)}: Markov models for text generation.
-    \item \textbf{Robotics and AI}: Planning and reinforcement learning.
-    \item \textbf{Queueing theory}: Analyzing systems with random service and arrival times.
-\end{itemize}
+Markov Processes are widely used in fields such as:
+
+- **Economics** – Modeling markets and consumer behavior  
+- **Biology** – Modeling population or gene transitions  
+- **Natural Language Processing (NLP)** – Text generation and tagging  
+- **Robotics / AI** – Planning and decision making  
+- **Queueing theory** – Modeling customer service or network traffic
+
 
 
   
