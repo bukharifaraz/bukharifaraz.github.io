@@ -6,6 +6,11 @@ date:   2018-12-31 02:27:01 +0530
 categories: ghazal urdu
 tags: ghazal
 ---
+<div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QMyi8javQ_g?si=RR-UOoYMcrYbL6ig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  
+</div>
 .<br>
 तक़ाज़ात-ए-नाज़-ए-सनम देखते हैं !!<br>
 फ़राहम वसाइल  अदम देखते हैं !!<br>
