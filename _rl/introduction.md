@@ -7,6 +7,8 @@ categories: RL ML AI
 tags: RL
 ---
 
+<hr>
+
 <h3>Sequential Decision Making</h3>
 <p>There are many tasks in which an agent needs to <u>"sequentially" decide</u> which one of the many possible actions it should take. For example consider the following <b>cliff-problem</b>:</p>
 
