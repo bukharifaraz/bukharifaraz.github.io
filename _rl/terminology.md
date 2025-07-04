@@ -19,6 +19,10 @@ tags: RL
 <p>
     In the context of RL, 'Agent is the "decision-maker" while solving a sequential decision making problem. It can also be called "learner" i.e. the one who learns to make sequential decisions. 
   </p>
+<p style="color:green">
+  In the cliff problem above, the little elf-like figure is the agent, as it makes a decision at each step regarding the direction in which to move.
+</p>
+  
   <p>
     A <b>rational agent</b> is one that acts so as to achieve the best outcome or, when there is uncertainty, the best expected outcome.
   </p>
@@ -60,7 +64,7 @@ tags: RL
 
 
 
-<li><b>Policy (\(  \pi \)</b>
+<li><b>Policy (\(  \pi \) )</b>
   <p>
      The strategy the agent uses to decide actions.
   </p>
