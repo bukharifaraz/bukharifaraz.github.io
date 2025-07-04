@@ -12,7 +12,13 @@ tags: RL
 <ol>
 <li><b>Agent</b>
   <p>
-     Agent is the "decision-maker" while solving a sequential decision making problem. It can also be called "learner" i.e. the one who learns to make sequential decisions. 
+     An agent is just something that acts <i>(agent comes from the Latin agere, to do)</i>. Of course, all computer programs do something, but computer agents are expected to do more: operate autonomously, perceive their environment, persist over a prolonged time period, adapt to change, and create and pursue goals. [1] 
+  </p>
+<p>
+    In the context of RL, 'Agent is the "decision-maker" while solving a sequential decision making problem. It can also be called "learner" i.e. the one who learns to make sequential decisions. 
+  </p>
+  <p>
+    A <b>rational agent</b> is one that acts so as to achieve the best outcome or, when there is uncertainty, the best expected outcome.
   </p>
 </li>
 
@@ -92,4 +98,11 @@ Loop:
 
 <div>
   <h3>MDP</h3>
+</div>
+
+<hr>
+
+<div>
+
+  [1]: Artificial Intelligence: A Modern Approach (Russel & Norvig)
 </div>
