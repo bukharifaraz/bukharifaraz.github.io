@@ -29,7 +29,7 @@ $$
 
 where:
 
-- $$S$$ is a (finite or infinite) set of states. <\br>
+- $$S$$ is a (finite or infinite) set of states. 
 - $$P$$ is a transition probability function, such that:
 
 $$
