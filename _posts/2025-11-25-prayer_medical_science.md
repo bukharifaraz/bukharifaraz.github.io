@@ -6,6 +6,8 @@ date:   2025-06-24 9:22:01 +0530
 categories: post
 tags: [islam, philosophy, history]
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GYcla8YPdpA?si=MofzjLB1lZHsynxP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+.
 
 <p>
 Maulana Sahib says that his daughter and son had a dangerous accident (Video Link in Comments)! His daughter remained admitted in the ICU for eighteen days. During this period, the doctors maintained a vague, worrying medical outlook. But Maulana Sahib continued to recite Surah al-Fātiḥa over his daughter every day and kept praying. He claims that it was this act of his that gave his daughter life again! Then, presenting his personal experience as an example before the public, he says that you too should strengthen your relationship with God in the same way. If, instead of asking anyone else, you ask only God for anything, you will surely receive it!
