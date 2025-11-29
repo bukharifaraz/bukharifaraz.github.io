@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "waada shikan ke paaNv"
+title:  "yaa rab"
 classes: wide
 date:   2020-10-31 23:13:01 +0530
 categories: ghazal urdu
