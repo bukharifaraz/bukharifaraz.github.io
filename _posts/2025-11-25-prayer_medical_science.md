@@ -2,7 +2,7 @@
 layout: single
 title:  "Prayer and Medical Science"
 classes: wide
-date:   2025-06-24 9:22:01 +0530
+date:   2025-11-25 9:22:01 +0530
 categories: post
 tags: [islam, philosophy, history]
 ---
