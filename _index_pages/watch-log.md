@@ -4,7 +4,7 @@ title: Watch Log
 ---
 
 <style>
-    .tabs {  margin-bottom: 1rem; border-bottom: 2px solid #ccc; }
+    .tabs { margin-bottom: 1rem; border-bottom: 2px solid #ccc; }
     .tab {
         padding: 10px 20px;
         cursor: pointer;
@@ -40,6 +40,23 @@ title: Watch Log
         color: #e0b000;
         font-weight: bold;
     }
+
+
+    .tab-header {
+    display: flex;
+    justify-content: flex-start;
+    gap: 8px;
+}
+
+.tab-header button {
+    flex: 0 0 auto;
+    width: auto;
+    padding: 8px 14px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    background: #f8f8f8;
+    cursor: pointer;
+}
 </style>
 
 
