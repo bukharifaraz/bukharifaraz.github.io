@@ -4,8 +4,8 @@ title: Watch Log
 ---
 
 <style>
-    .tabs { margin-bottom: 1rem; border-bottom: 2px solid #ccc; }
-    .tab {
+    .watch-log-tabs { margin-bottom: 1rem; border-bottom: 2px solid #ccc; }
+    watch-log-tabs .tab {
         padding: 10px 20px;
         cursor: pointer;
         font-weight: bold;
@@ -43,7 +43,7 @@ title: Watch Log
 </style>
 
 
-<div class="tabs">
+<div class="watch-log-tabs">
     <div class="tab active" data-tab="documentary">Documentary</div>
     <div class="tab" data-tab="movies">Movies</div>
     <div class="tab" data-tab="lectures">Lectures</div>
