@@ -5,7 +5,7 @@ title: Watch Log
 
 <style>
     .watch-log-tabs {display:flex; margin-bottom: 1rem; border-bottom: 2px solid #ccc; }
-    watch-log-tabs .tab {
+    .watch-log-tabs .tab {
         padding: 10px 20px;
         cursor: pointer;
         font-weight: bold;
