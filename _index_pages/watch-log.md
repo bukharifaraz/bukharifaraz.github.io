@@ -42,7 +42,6 @@ title: Watch Log
     }
 </style>
 
-<h1>My Watch Log</h1>
 
 <div class="tabs">
     <div class="tab active" data-tab="documentary">Documentary</div>
