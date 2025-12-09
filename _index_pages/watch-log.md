@@ -44,7 +44,7 @@ title: Watch Log
 
 
 <div class="watch-log-tabs">
-    <div class="tab active" data-tab="documentary">Documentary</div>
+    <div class="tab active" data-tab="documentary">Documentaries</div>
     <div class="tab" data-tab="movies">Movies</div>
     <div class="tab" data-tab="lectures">Lectures</div>
 </div>
