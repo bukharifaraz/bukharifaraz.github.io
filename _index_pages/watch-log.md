@@ -4,7 +4,7 @@ title: Watch Log
 ---
 
 <style>
-    .tabs { display: flex; margin-bottom: 1rem; border-bottom: 2px solid #ccc; }
+    .tabs {  margin-bottom: 1rem; border-bottom: 2px solid #ccc; }
     .tab {
         padding: 10px 20px;
         cursor: pointer;
