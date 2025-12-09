@@ -2,145 +2,134 @@
 layout: single
 title: Watch Log
 ---
-/* Container */
-.tab-container {
-  margin-top: 20px;
-  font-family: Arial, sans-serif;
-}
 
-/* TAB HEADER BAR */
-.tab-header {
-  border-bottom: 2px solid #ccc;
-  margin-bottom: 10px;
-}
+<style>
+    .tabs { margin-bottom: 1rem; border-bottom: 2px solid #ccc; }
+    .tab {
+        padding: 10px 20px;
+        cursor: pointer;
+        font-weight: bold;
+        border-bottom: 3px solid transparent;
+    }
+    .tab.active {
+        border-bottom-color: #000;
+    }
+    .tab-content { display: none; }
+    .tab-content.active { display: block; }
 
-/* TAB BUTTONS */
-.tab-btn {
-  background: #eee;
-  display: inline-block;
-  padding: 10px 16px; 
-  margin-right: 4px;
-  border: none;
-  cursor: pointer;
-  border-radius: 6px 6px 0 0;
-}
+    .item {
+        border: 1px solid #ddd;
+        padding: 12px;
+        margin-bottom: 10px;
+        cursor: pointer;
+        background: #fafafa;
+    }
+    .item:hover {
+        background: #f0f0f0;
+    }
 
-.tab-btn.active {
-  background: #fff;
-  border-bottom: 2px solid white;
-  font-weight: bold;
-}
+    .item-details {
+        display: none;
+        padding: 10px;
+        background: #fff;
+        border-left: 3px solid #333;
+        margin-top: 8px;
+    }
 
-/* CONTENT */
-.tab-content {
-  display: none;
-  padding: 10px;
-  background: #fff;
-}
+    .stars {
+        color: #e0b000;
+        font-weight: bold;
+    }
+</style>
 
-.tab-content.active {
-  display: block;
-}
+<h1>My Watch Log</h1>
 
-/* ITEMS */
-.item {
-  border-bottom: 1px solid #ddd;
-  margin-bottom: 10px;
-  padding-bottom: 8px;
-}
+<div class="tabs">
+    <div class="tab active" data-tab="documentary">Documentary</div>
+    <div class="tab" data-tab="movies">Movies</div>
+    <div class="tab" data-tab="lectures">Lectures</div>
+</div>
 
-.item-title {
-  cursor: pointer;
-  padding: 5px;
-  font-weight: bold;
-}
-
-.item-details {
-  display: none;
-  padding: 8px;
-  background: #fafafa;
-  border-left: 3px solid #ccc;
-  margin-top: 5px;
-}
-
-
-<div class="tab-container">
-
-  <!-- TAB HEADERS -->
-  <div class="tab-header">
-    <button class="tab-btn active" data-tab="documentary">Documentary</button>
-    <button class="tab-btn" data-tab="movies">Movies</button>
-    <button class="tab-btn" data-tab="lectures">Lectures</button>
-  </div>
-
-  <!-- TAB CONTENT: DOCUMENTARY -->
-  <div id="documentary" class="tab-content active">
-
-    <div class="item">
-      <div class="item-title" onclick="toggleItem(this)">
-        Planet Earth II — (2025-01-12) ★★★★☆
-      </div>
-      <div class="item-details">
-        A stunning documentary showing ecosystems across the world...
-      </div>
+<!---------------- Documentary ---------------->
+<div id="documentary" class="tab-content active">
+    <div class="item" onclick="toggleDetails(this)">
+        <strong>The Social Dilemma</strong> — 2024-12-01  
+        <div class="stars">★★★★☆</div>
+        <div class="item-details">
+            A sharp critique of persuasive tech and algorithmic manipulation.  
+            I particularly liked the part explaining engagement-driven recommender systems.
+        </div>
     </div>
 
-    <div class="item">
-      <div class="item-title" onclick="toggleItem(this)">
-        Oppenheimer’s Legacy — (2025-02-01) ★★★★★
-      </div>
-      <div class="item-details">
-        Explores the consequences of nuclear innovation...
-      </div>
+    <div class="item" onclick="toggleDetails(this)">
+        <strong>Planet Earth II</strong> — 2024-11-15  
+        <div class="stars">★★★★★</div>
+        <div class="item-details">
+            Stunning cinematography. Especially the mountain and desert ecosystems.
+        </div>
+    </div>
+</div>
+
+<!---------------- Movies ---------------->
+<div id="movies" class="tab-content">
+    <div class="item" onclick="toggleDetails(this)">
+        <strong>Interstellar</strong> — 2024-12-05  
+        <div class="stars">★★★★★</div>
+        <div class="item-details">
+            Beautiful blend of physics, emotion, and cinematography.  
+            Loved the time-dilation sequences.
+        </div>
     </div>
 
-  </div>
-
-  <!-- TAB CONTENT: MOVIES -->
-  <div id="movies" class="tab-content">
-    <div class="item">
-      <div class="item-title" onclick="toggleItem(this)">
-        Interstellar — (2025-01-03) ★★★★★
-      </div>
-      <div class="item-details">
-        Nolan’s masterpiece on time, gravity, and human emotion.
-      </div>
+    <div class="item" onclick="toggleDetails(this)">
+        <strong>Arrival</strong> — 2024-11-07  
+        <div class="stars">★★★★★</div>
+        <div class="item-details">
+            A deep take on language, perception, and non-linear time.
+        </div>
     </div>
-  </div>
+</div>
 
-  <!-- TAB CONTENT: LECTURES -->
-  <div id="lectures" class="tab-content">
-    <div class="item">
-      <div class="item-title" onclick="toggleItem(this)">
-        MIT Deep Learning Lecture 1 — (2025-01-20) ★★★★☆
-      </div>
-      <div class="item-details">
-        Great intro to neural networks and ML foundations.
-      </div>
+<!---------------- Lectures ---------------->
+<div id="lectures" class="tab-content">
+    <div class="item" onclick="toggleDetails(this)">
+        <strong>MIT 6.S191: Deep Learning Intro</strong> — 2024-12-10  
+        <div class="stars">★★★☆☆</div>
+        <div class="item-details">
+            Good recap of fundamentals.  
+            Covered backprop, computational graphs, and neural net basics.
+        </div>
     </div>
-  </div>
 
+    <div class="item" onclick="toggleDetails(this)">
+        <strong>Andrew Ng: Machine Learning Foundations</strong> — 2024-10-22  
+        <div class="stars">★★★★☆</div>
+        <div class="item-details">
+            Excellent clarity.  
+            Great explanation of bias–variance and regularization.
+        </div>
+    </div>
 </div>
 
 
-
 <script>
-function openTab(tabName) {
-  document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
-  document.getElementById(tabName).classList.add('active');
+    // Tab switching
+    const tabs = document.querySelectorAll(".tab");
+    const contents = document.querySelectorAll(".tab-content");
 
-  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-  document.querySelector('.tab-btn[data-tab="'+tabName+'"]').classList.add('active');
-}
+    tabs.forEach(tab => {
+        tab.onclick = () => {
+            tabs.forEach(t => t.classList.remove("active"));
+            contents.forEach(c => c.classList.remove("active"));
 
-document.querySelectorAll('.tab-btn').forEach(btn => {
-  btn.addEventListener('click', () => {
-    openTab(btn.dataset.tab);
-  });
-});
+            tab.classList.add("active");
+            document.getElementById(tab.dataset.tab).classList.add("active");
+        };
+    });
 
-function toggleItem(element) {
-  const detail = element.nextElementSibling;
-  detail.style.display = (detail.style.display === "block") ? "none" : "block";
-}
+    // Expand/collapse item details
+    function toggleDetails(el) {
+        const details = el.querySelector(".item-details");
+        details.style.display = details.style.display === "block" ? "none" : "block";
+    }
 </script>
