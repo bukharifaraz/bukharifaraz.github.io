@@ -19,7 +19,7 @@ Then in the seventh century, Muhammad’s Sharia, while establishing better judi
 For extremely serious crimes, punishments continued to be given in front of the public, and the methods remained almost the same: stoning, whipping, amputation — inflicting visible suffering on the criminal’s body to act as a deterrent for the rest of society.
 </p>
 
-<p>>
+<p>
 In South Asia, Jainism and Buddhism spoke differently, but neither of these traditions was aimed at state control.
 And if we look at Manusmriti’s system of punishment, bodily punishment appears there with even greater severity and emphasis.
 </p>
