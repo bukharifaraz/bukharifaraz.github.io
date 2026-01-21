@@ -7,7 +7,7 @@ categories: post
 tags: [history, philosophy]
 ---
 <p>
-There was a time when power used to punish its criminals openly — in full public view. The centre of punishment was the criminal’s body. The aim was less to establish justice and more to inflict such severe and painful suffering on the criminal’s body that no one who watched would ever dare think of committing a crime again.
+There was a time when the state used to punish its criminals openly — in full public view. The centre of punishment was the criminal’s body. The aim was less to establish justice and more to inflict such severe and painful suffering on the criminal’s body that no one who watched would ever dare think of committing a crime again.
 The fear of the power of the state would be implanted permanently in their hearts and minds. </p>
 
 <p>
