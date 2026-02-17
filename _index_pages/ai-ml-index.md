@@ -10,7 +10,7 @@ title: AI/ML
   <hr>
   
 <ul>
-{% assign sorted_ghazal = site.ghazal | sort: 'date' | reverse %}
+{% assign sorted_ghazal = site.ai | sort: 'date' | reverse %}
 {% for item in sorted_ghazal %}
     <li>
       <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
