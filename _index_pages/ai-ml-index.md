@@ -19,3 +19,7 @@ title: AI/ML
   <hr>
   {% endfor %}
 </ul>
+
+
+<hr>
+<a href="https://bukharifaraz.github.io/rl-index/">RL Course Notes</a>
