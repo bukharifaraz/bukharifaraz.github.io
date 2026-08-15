@@ -27,7 +27,7 @@ I work in the field of Visual Perception & Reasoning.
 <hr>
 <b>Teaching Assistant:</b>
 <ul>
-  <li>Reinforcement Learning- 2026-27 Sem 1</li>
-  <li>Deep Learning- 2025-26 Sem 2</li>
+  <li><a href="https://jamesarambam.me/rl">Reinforcement Learning- 2026-27 Sem 1</a></li>
+  <li><a href="https://jamesarambam.me/dl">Deep Learning- 2025-26 Sem 2</a></li>
   <li>Information Retrieval- 2025-26 Sem 1</li>
 </ul>
