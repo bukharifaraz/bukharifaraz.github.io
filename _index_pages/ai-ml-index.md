@@ -4,8 +4,8 @@ author_profile: true
 title: AI/ML
 ---
 <hr>
-I am a PhD student in the <a href="https://scai.iitd.ac.in/">School of Artificial Intelligence</a> at <a href="https://home.iitd.ac.in/">IIT Delhi</a>, co-advised by <a href="https://www.cse.iitd.ac.in/~parags/">Prof. Parag Singla</a> and <a href="https://www.cse.iitd.ac.in/~mausam/"> Prof. Mausam</a>
-I work in the field of Visual Perception & Reasoning with VLMs. 
+I am a PhD student in the <a href="https://scai.iitd.ac.in/">School of Artificial Intelligence</a> at <a href="https://home.iitd.ac.in/">IIT Delhi</a>, co-advised by <a href="https://www.cse.iitd.ac.in/~parags/">Prof. Parag Singla</a> and <a href="https://www.cse.iitd.ac.in/~mausam/"> Prof. Mausam</a>.
+I work in the field of Visual Perception & Reasoning. 
 
 <hr>
 <ul>
@@ -16,7 +16,11 @@ I work in the field of Visual Perception & Reasoning with VLMs.
 
 
 <hr>
-<a href="https://bukharifaraz.github.io/rl-index/">RL Course Notes</a>
+<Notes>
+  <ul>
+    <li><a href="https://bukharifaraz.github.io/rl-index/">RL Course Notes</a></li>
+  </ul>
+
 
 
 <hr>
