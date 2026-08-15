@@ -8,6 +8,7 @@ I am a PhD student in the <a href="https://scai.iitd.ac.in/">School of Artificia
 I work in the field of Visual Perception & Reasoning. 
 
 <hr>
+<b>Links:</b>
 <ul>
   <li><a href="https://docs.google.com/presentation/d/1_6OwJH6JkO_Lx2QtEyYiaye_3fb7blNoVd4avHX3EZs/edit?slide=id.g4908ab1938cae605_657#slide=id.g4908ab1938cae605_657">Comprehensive Exam Presentation</a> & <a href="https://drive.google.com/drive/folders/1NydyGbT-oqyy_A5toi_pRhi7qoMoKCAl?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto">Report</a></li>
 </ul>
@@ -16,7 +17,7 @@ I work in the field of Visual Perception & Reasoning.
 
 
 <hr>
-<Notes>
+<b>Notes:</b>
   <ul>
     <li><a href="https://bukharifaraz.github.io/rl-index/">RL Course Notes</a></li>
   </ul>
@@ -24,7 +25,7 @@ I work in the field of Visual Perception & Reasoning.
 
 
 <hr>
-<b>Teaching Assistant</b>
+<b>Teaching Assistant:</b>
 <ul>
   <li>Reinforcement Learning- 2026-27 Sem 1</li>
   <li>Deep Learning- 2025-26 Sem 2</li>
