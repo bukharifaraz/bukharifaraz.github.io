@@ -6,6 +6,13 @@ title: Book Log
 <hr>
 <h3>2026</h3>
 <ol>
+
+	<li>
+  <div><b>The God Delusion </b></div>
+  <div>~ Richard Dawkins, 2006 <span style='color:gray'>(Aug '26)</span></div>
+</li>
+
+	
 	<li>
   <div><b>Why the Poor Don't Kill Us</b></div>
   <div>~ Manu Joseph, 2025 <span style='color:gray'>(Jun '26)</span></div>
