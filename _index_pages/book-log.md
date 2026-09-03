@@ -7,6 +7,11 @@ title: Book Log
 <h3>2026</h3>
 <ol>
 
+<li>
+<div><b>Philosophy of Science: A Very Short Introduction</b></div>
+	<div>~  Samir Okasha, 2002 <span style='color:gray'> (Sep '26) </span></div>
+</li>
+
 	<li>
   <div><b>The God Delusion </b></div>
   <div>~ Richard Dawkins, 2006 <span style='color:gray'>(Aug '26)</span></div>
