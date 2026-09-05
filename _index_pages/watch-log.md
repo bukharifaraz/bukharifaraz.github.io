@@ -63,7 +63,7 @@ title: Watch Log
         <strong>Final Solution</strong> 
         <div class="stars">★★★★★</div>
         <div class="item-details">
-            An exhaustive coverage of the events, pre- and post- Gujrat Riots of 2002. 
+            An exhaustive coverage of the events, pre- and post- Gujrat Riots of 2002. Watch <a href="https://www.youtube.com/watch?v=AV7rmuWefQI">here </a> on YouTube. 
         </div>
     </div>
 </div>
