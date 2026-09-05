@@ -52,19 +52,18 @@ title: Watch Log
 <!---------------- Documentary ---------------->
 <div id="documentary" class="tab-content active">
     <div class="item" onclick="toggleDetails(this)">
-        <strong>The Social Dilemma</strong> — 2024-12-01  
-        <div class="stars">★★★★☆</div>
+        <strong>Raam ke Naam</strong> 
+        <div class="stars">★★★★★</div>
         <div class="item-details">
-            A sharp critique of persuasive tech and algorithmic manipulation.  
-            I particularly liked the part explaining engagement-driven recommender systems.
+            An exhaustive coverage of the events that lead to the demolition of Babari Mosque, in Ayodhya, India. Watch <a href="https://www.youtube.com/watch?v=GMT18TMNQbY&pp=ygUjaW4gdGhlIG5hbWUgb2YgZ29kIGFuYW5kIHBhdHdhcmRoYW4%3D">here</a> on YouTube. 
         </div>
     </div>
 
     <div class="item" onclick="toggleDetails(this)">
-        <strong>Planet Earth II</strong> — 2024-11-15  
+        <strong>Final Solution</strong> 
         <div class="stars">★★★★★</div>
         <div class="item-details">
-            Stunning cinematography. Especially the mountain and desert ecosystems.
+            An exhaustive coverage of the events, pre- and post- Gujrat Riots of 2002. 
         </div>
     </div>
 </div>
