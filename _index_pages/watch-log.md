@@ -51,6 +51,17 @@ title: Watch Log
 
 <!---------------- Documentary ---------------->
 <div id="documentary" class="tab-content active">
+
+<div class="item" onclick="toggleDetails(this)">
+        <strong>While we watched</strong> 
+        <div class="stars">★★★★★</div>
+        <div class="item-details">
+            A turbulent newsroom drama intimately chronicling the working days of broadcast journalist Ravish Kumar as he navigates a spiralling world of truth and disinformation. As factual reporting is in freefall globally, ‘While We Watched’ is a dignified lens into the abyss. Watch <a href="[https://www.youtube.com/watch?v=GMT18TMNQbY&pp=ygUjaW4gdGhlIG5hbWUgb2YgZ29kIGFuYW5kIHBhdHdhcmRoYW4%3D](https://www.youtube.com/watch?v=3HCqArkC7Ew)">here</a> on YouTube. 
+        </div>
+    </div>
+
+
+    
     <div class="item" onclick="toggleDetails(this)">
         <strong>Raam ke Naam</strong> 
         <div class="stars">★★★★★</div>
