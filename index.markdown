@@ -19,6 +19,10 @@ As <a href='https://www.rekhta.org/poets/jigar-moradabadi/all'> Jigar Muradabaad
 I have a passion for writing Ghazals in Urdu/Hindi. You can explore a collection of my work <a href='https://bukharifaraz.github.io/ghazal-index/'>here</a>. You can also see me performing on stage <a href='https://www.youtube.com/watch?v=oSvL_DTyW0M'> here</a>. 
 </p>
 
+<hr>
+These are the <a href='https://bukharifaraz.github.io/concern-index/'>subjects that occupy my mind </a> and keep me awake late into the night.
+<hr>
+
 <p>
  Thanks for visiting !
 </p>
