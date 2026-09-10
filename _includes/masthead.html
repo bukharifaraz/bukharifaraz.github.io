@@ -1,9 +1,35 @@
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
+<style>
+.masthead {
+  position: relative;
+  background: #0092ca !important;
+  color: white !important;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
+  z-index: 10;
+}
 
-<div class="masthead" style = "background:#0092ca; color: white !important;"">
-  <div class="masthead__inner-wrap" style = "background:#0092ca; color: white !important;"">
-    <div class="masthead__menu" style = "background:#0092ca; color: white !important;""> 
-      <nav id="site-nav" class="greedy-nav" style = "background:#0092ca; color: white !important;"">
+.masthead::after {
+  content: "";
+  position: absolute;
+  left: 2%;
+  right: 2%;
+  bottom: -5px;
+  height: 10px;
+  background: #e5e5e5;
+  border-radius: 0 0 50% 50%;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.12);
+  z-index: -1;
+
+  .masthead a {
+    color: #000!important ;
+}
+}
+</style>
+
+<div class="masthead" style = "background:#0092ca; color: white !important;">
+  <div class="masthead__inner-wrap" style = "background:#0092ca; color: white !important;">
+    <div class="masthead__menu" style = "background:#0092ca; color: white !important;"> 
+      <nav id="site-nav" class="greedy-nav" style = "background:#0092ca; color: white !important;">
         {% unless logo_path == empty %}
           <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
         {% endunless %}
