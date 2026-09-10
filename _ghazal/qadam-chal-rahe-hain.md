@@ -6,7 +6,8 @@ date:   2021-09-30 06:26:01 +0530
 categories: ghazal urdu
 tags: ghazal
 ---
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G4kKXX69oQ4?si=l5Zt9fxiQYFH0EV7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<hr>
 .<br>
 अभी बज़्म में जाम कम चल रहे हैं !<br>
 हुई रात हम तिशना-दम चल रहे हैं !<br>
