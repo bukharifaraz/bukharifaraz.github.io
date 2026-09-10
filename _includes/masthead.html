@@ -1,8 +1,8 @@
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
 
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
+<div class="masthead" style = "background='#0092ca'">
+  <div class="masthead__inner-wrap" style = "background='#0092ca'">
+    <div class="masthead__menu" style = "background='#0092ca'"> 
       <nav id="site-nav" class="greedy-nav">
         {% unless logo_path == empty %}
           <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
