@@ -5,11 +5,10 @@ title: Subjects That Preoccupy Me
 ---
 <hr>
 <ul>
-  <li><a href=''>Existence, Meaning & Purpose</a></li>
-  <li><a href=''>God, Religion & Revelation</a></li>
-  <li><a href=''>Free Will, Determinism & Human Agency</a></li>
-  <li><a href=''></a>Morality</li>
-  <li><a href=''>Power, Oppression & Social Institutions</a></li>
-  <li><a href=''>Science, Knowledge & Truth</a></li>
-  <li><a href=''>Poetry</a></li>
+  <li><a href='https://bukharifaraz.github.io/existentialism-index/'>Existence, Meaning & Purpose</a></li>
+  <li><a href='https://bukharifaraz.github.io/god-religion-index/'>God, Religion & Revelation</a></li>
+  <li><a href='https://bukharifaraz.github.io/moral-philosophy-index/'></a>Morality</li>
+  <li><a href='https://bukharifaraz.github.io/oppression-index/'>Power, Oppression & Social Institutions</a></li>
+  <li><a href='https://bukharifaraz.github.io/philosophy-of-index/'>Science, Knowledge & Truth</a></li>
+  <li><a href='https://bukharifaraz.github.io/ghazal-index/'>Poetry</a></li>
 </ul>
