@@ -20,7 +20,7 @@ I have a passion for writing Ghazals in Urdu/Hindi. You can explore a collection
 </p>
 
 <hr>
-These are the <a href='https://bukharifaraz.github.io/concern-index/'>subjects that occupy my mind </a>. If you have an opinion to share, on any of them, please feel free to drop me a mail or message.
+<a href='https://bukharifaraz.github.io/concern-index/'> These </a> are the subjects that occupy my mind in the free time. If you have an opinion to share on any of them please feel free to drop me a mail or message.
 
 <p>
  Thanks for visiting !
