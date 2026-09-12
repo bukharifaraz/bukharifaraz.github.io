@@ -19,8 +19,8 @@ As <a href='https://www.rekhta.org/poets/jigar-moradabadi/all'> Jigar Muradabaad
 I have a passion for writing Ghazals in Urdu/Hindi. You can explore a collection of my work <a href='https://bukharifaraz.github.io/ghazal-index/'>here</a>. You can also see me performing on stage <a href='https://www.youtube.com/watch?v=oSvL_DTyW0M'> here</a>. 
 </p>
 
-<hr>
-<a href='https://bukharifaraz.github.io/concern-index/'> These </a> are the subjects that occupy my mind in the free time. If you have an opinion to share on any of them please feel free to drop me a mail or message.
+<!-- <hr>
+<a href='https://bukharifaraz.github.io/concern-index/'> These </a> are the subjects that occupy my mind in the free time. If you have an opinion to share on any of them please feel free to drop me a mail or message. -->
 
 <p>
  Thanks for visiting !
